@@ -84,8 +84,11 @@ World Bank Training Series. World Bank Publications, 2009. ISBN:
 ### Dia 4: Medidas de Pobreza
 
 - Principais propriedades das pobreza;
-- Índice de Gini;
-- Índices de Entropia Generalizada;
+- Taxa de pobreza;
+- Hiato de Pobreza;
+- Hiato Quadrático de Pobreza;
+- Classe FGT;
+- Índice de Watts;
 - Exercícios usando o `R`.
 
 Leituras recomendadas:
